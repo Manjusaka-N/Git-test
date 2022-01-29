@@ -1,4 +1,4 @@
-# 初学typora testpull
+# 初学typora
 
 ## 一.各级标题
 
